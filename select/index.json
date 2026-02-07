@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Habit",
+  "base_artist": "Louis Tomlinson",
+  "createdAt": "2026-02-07T05:59:59.880341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/01_Bad_Habit_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breaking The Habit",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Breaking_The_Habit_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Automatic Systematic Habit",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Automatic_Systematic_Habit_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/04_Bad_Habit_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cocaine Habit",
+      "artist": "Old Crow Medicine Show",
+      "has_synced": true,
+      "path": "select/05_Cocaine_Habit_Old_Crow_Medicine_Show.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(You've Become A) Habit To Me",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/06_(You've_Become_A)_Habit_To_Me_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's So Hard to Break a Habit",
+      "artist": "The Webs",
+      "has_synced": false,
+      "path": "select/07_It's_So_Hard_to_Break_a_Habit_The_Webs.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Habit",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/08_Habit_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Habit",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/09_Habit_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Habit (feat. Moneybagg Yo) - Remix",
+      "artist": "42 Dugg feat. Moneybagg Yo",
+      "has_synced": true,
+      "path": "select/10_Habit_(feat._Moneybagg_Yo)_-_Remix_42_Dugg_feat._Moneybagg_Yo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Habit (Remix)",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/11_Habit_(Remix)_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "SONOIO",
+      "has_synced": true,
+      "path": "select/12_Bad_Habit_SONOIO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lime Habit",
+      "artist": "POLIÇA",
+      "has_synced": false,
+      "path": "select/13_Lime_Habit_POLIÇA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "bad habit",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/14_bad_habit_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feed My Fuckin' Habit",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/15_Feed_My_Fuckin'_Habit_Electric_Six.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Habit",
+      "artist": "Louis Tomlinson",
+      "has_synced": false,
+      "path": "select/pl_01_Habit_Louis_Tomlinson.txt"
+    }
+  ]
+}
